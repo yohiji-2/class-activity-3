@@ -1,2 +1,3 @@
 Initial documentation created by Account A. (yohiji-1)
 Owner update: added guidelines. (yohiji-1)
+Contributor update: added more details. (yohiji-2)
